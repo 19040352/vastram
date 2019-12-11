@@ -43,10 +43,13 @@ sections:
     actions:
     - label: Learn More
       url: "/risk"
-  - title: ''
-    content: ''
-    image: ''
-    actions: []
+  - title: Marketing
+    content: Vastram will do all kind of marketing to reach out to the customer like
+      digital marketing and traditional base marketing to get cus...
+    image: "/images/marketing.jpg"
+    actions:
+    - label: Learn More
+      url: "/marketing"
   - title: ''
     content: ''
     image: ''
