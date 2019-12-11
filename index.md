@@ -5,8 +5,12 @@ sections:
   template: section_hero
   section_id: hero
   title: Vastram
-  content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
-    who need a sleek, modern SaaS site. '
+  content: |-
+    Outfit mean attitude
+
+    And
+
+    Attitude mean Vastram
   image: images/hero.png
   actions:
   - label: Learn More
