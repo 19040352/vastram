@@ -14,7 +14,7 @@ sections:
   image: "/images/maxresdefault.jpg"
   actions:
   - label: Learn More
-    url: "/features"
+    url: "/our-vision"
 - type: section_features
   template: section_features
   section_id: features
