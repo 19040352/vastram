@@ -10,8 +10,8 @@ header:
   menu:
     actions: []
 footer:
-  logo_img: images/logo_alt.png
-  tagline: SaaS theme by Stackbit
+  logo_img: ''
+  tagline: Vastram mean a people who follow the tradition.
   has_nav: true
   nav_title: Company
   has_social: true
