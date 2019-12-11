@@ -50,10 +50,13 @@ sections:
     actions:
     - label: Learn More
       url: "/marketing"
-  - title: ''
-    content: ''
-    image: ''
-    actions: []
+  - title: Finance
+    content: Finance plays a vital role to start business at initial level and to
+      reach out to the customer. We will do Equity...
+    image: "/images/Finance-for-Starting-a-Business.jpeg"
+    actions:
+    - label: Learn More
+      url: "/finance"
 - type: section_cta
   template: section_cta
   section_id: call-to-action
