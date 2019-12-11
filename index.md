@@ -36,13 +36,13 @@ sections:
     actions:
     - label: Learn More
       url: "/strategies"
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
-    image: images/feature3.png
+  - title: Risk
+    content: Every business start with suppose and get successful, in which suppose
+      is a risk, it is related to our business..
+    image: "/images/business-risk.png"
     actions:
     - label: Learn More
-      url: "/features"
+      url: "/risk"
   - title: ''
     content: ''
     image: ''
