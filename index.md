@@ -18,7 +18,7 @@ sections:
 - type: section_features
   template: section_features
   section_id: features
-  title: VISION - STRATEGY - RISK - MARKETING - FINANCE
+  title: VISION - STRATEGY - RISK<br>MARKETING - FINANCE
   subtitle: ''
   bg: white
   featureslist:
