@@ -60,11 +60,11 @@ sections:
 - type: section_cta
   template: section_cta
   section_id: call-to-action
-  title: This Is Call To Action Block!
-  subtitle: This is an optional description for the call to action block.
+  title: Keep in touch with us
+  subtitle: ''
   actions:
   - label: Get Started
-    url: "/signup"
+    url: "/contact"
 layout: landing
 menu:
   secondary:
