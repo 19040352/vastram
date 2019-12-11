@@ -3,6 +3,11 @@ layout: page
 title: Risk
 subtitle: ''
 img_path: ''
+menu:
+  secondary:
+    weight: 4
+  main:
+    weight: 4
 
 ---
 Venture typically have four types of risk: 

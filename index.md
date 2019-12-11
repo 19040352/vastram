@@ -77,6 +77,8 @@ sections:
   subtitle: ''
 layout: landing
 menu:
+  secondary:
+    weight: 1
   main:
     weight: 1
 

@@ -3,6 +3,11 @@ layout: page
 title: Our Vision
 subtitle: ''
 img_path: ''
+menu:
+  secondary:
+    weight: 2
+  main:
+    weight: 2
 
 ---
 Our main vision is to connect everybody to our tradition and culture through providing such traditional clothes and wears.Company provides good looking and quality products with bulk quantity and retail traditional clothes and best-services to satisfied customers as well, with best savings without any fear of fraud and loss.

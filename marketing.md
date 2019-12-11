@@ -3,6 +3,11 @@ layout: page
 title: Marketing
 subtitle: ''
 img_path: ''
+menu:
+  secondary:
+    weight: 5
+  main:
+    weight: 5
 
 ---
 Vastram will target segment to those customers who keep interested in their traditional clothing and want to connect with their culture through this kind of trendy traditional clothes. This venture specially targets young generation who are unaware about their culture and tradition due to their busy pace of life.

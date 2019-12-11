@@ -3,6 +3,11 @@ layout: page
 title: Finance
 subtitle: ''
 img_path: ''
+menu:
+  secondary:
+    weight: 6
+  main:
+    weight: 6
 
 ---
 To start this business today, roughly I need **$2,43,000.00** to get this off the ground. It includes rent for office and manufacturing place, Salary for staff and me, raw material cost, website cost and other expenses. The details are as follow: -

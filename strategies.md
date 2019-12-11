@@ -3,6 +3,12 @@ layout: page
 title: Strategies
 subtitle: ''
 img_path: ''
+menu:
+  secondary:
+    weight: 3
+  main:
+    weight: 3
+    title: Strategy
 
 ---
 Product differentiation focuses on the costomer’s attention on one or more type of benefits of a brand that make it better than other brands.
