@@ -29,13 +29,13 @@ sections:
     actions:
     - label: Learn More
       url: "/our-vision"
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
-    image: images/feature2.png
+  - title: Strategies
+    content: Product differentiation focuses on the costomer’s attention on one or
+      more type of benefits of a brand that make it better than other brands...
+    image: "/images/Strategies.jpg"
     actions:
     - label: Learn More
-      url: "/features"
+      url: "/strategies"
   - title: Cool Feature of Your Services
     content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
       venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
