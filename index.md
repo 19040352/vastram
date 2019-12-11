@@ -11,7 +11,7 @@ sections:
     And
 
     Attitude mean Vastram
-  image: images/hero.png
+  image: "/images/maxresdefault.jpg"
   actions:
   - label: Learn More
     url: "/features"
