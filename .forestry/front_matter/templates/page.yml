@@ -24,8 +24,9 @@ fields:
   config:
     required: true
 pages:
-- strategies.md
 - style-guide.md
 - about.md
 - signup.md
 - our-vision.md
+- strategies.md
+- risk.md
